@@ -1,10 +1,9 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Elisheba
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 14, Sunday, 2018].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1
 
-### R1D2
+I learned more about linked list algorithms and got started on learning about tree algorithms. I followed a person working through problems involving the algorithms to get some momentum back after hitting a wall yesterday. 
