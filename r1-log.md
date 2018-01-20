@@ -19,3 +19,7 @@ I started the JavaScript: Understanding the Weird Parts course. Went over scope,
 ## R1D4
 
 I continued the JavaScript: Understanding the Weird Parts course and learned about types, operators, objects and functions in depth. 3h
+
+## R1D5
+
+Worked on a little of a Charter for Compassion PR and learned a little about Reference by value in JavaScript. 1h
