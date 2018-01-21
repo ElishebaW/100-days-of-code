@@ -23,3 +23,7 @@ I continued the JavaScript: Understanding the Weird Parts course and learned abo
 ## R1D5
 
 Worked on a little of a Charter for Compassion PR and learned a little about Reference by value in JavaScript. 1h
+
+## R1D6
+
+Continued to learn more about weird JavaScript including this , arrays and syntax parsers. Got bored and decided to pick up React and Ruby on Rails project Invoice Pro. 
