@@ -27,3 +27,7 @@ Worked on a little of a Charter for Compassion PR and learned a little about Ref
 ## R1D6
 
 Continued to learn more about weird JavaScript including this , arrays and syntax parsers. Got bored and decided to pick up React and Ruby on Rails project Invoice Pro. 2h
+
+##R1D7
+
+Did 30 min of JavaScript Weirdness course and an hour and a half planning and coding my Invoice Pro application.
