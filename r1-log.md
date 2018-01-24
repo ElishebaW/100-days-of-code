@@ -31,3 +31,7 @@ Continued to learn more about weird JavaScript including this , arrays and synta
 ##R1D7
 
 Did 30 min of JavaScript Weirdness course and an hour and a half planning and coding my Invoice Pro application.
+
+##R1D8
+
+Spent all day on JavaScript: Understanding the Weird Parts and I've got to say I'm starting to understand. Building my first framework helped me to learn the possibilities and also learn what people mean by reading the source code and understanding that you should learn vanilla JavaScript before or while learning a framework. Things I thought where pure React are really just JavaScript. 8h
