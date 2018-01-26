@@ -39,3 +39,7 @@ Spent all day on JavaScript: Understanding the Weird Parts and I've got to say I
 ##R1D9
 
 Finished JavaScript: Understanding the Weird Parts, but not done playing with the framework I created through the course. Want to play with it and make it mine. Rest of days will involve creating projects, code challenges and contributing to open source. 3h
+
+##R1D10
+
+Extended the framework I created in the JavaScript course by adding Logout functionality and learned a little about how to work with jQuery.2h
