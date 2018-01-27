@@ -43,3 +43,7 @@ Finished JavaScript: Understanding the Weird Parts, but not done playing with th
 ##R1D10
 
 Extended the framework I created in the JavaScript course by adding Logout functionality and learned a little about how to work with jQuery.2h
+
+##R1D11
+
+Ran out of time today, but I did move the framework out of the actual application that I was creating. I might try to rename it to something more fitting. 45m
