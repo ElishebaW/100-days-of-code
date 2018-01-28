@@ -47,3 +47,7 @@ Extended the framework I created in the JavaScript course by adding Logout funct
 ##R1D11
 
 Ran out of time today, but I did move the framework out of the actual application that I was creating. I might try to rename it to something more fitting. 45m
+
+##R1D12
+
+I added more functionality to my Joke Generator app. Implemented Bootstrap and looked under the hood of the framework. I created a new library to hold the translations for the body of the app. Got to work a lot more with jQuery 6h
