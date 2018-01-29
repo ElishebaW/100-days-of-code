@@ -51,3 +51,7 @@ Ran out of time today, but I did move the framework out of the actual applicatio
 ##R1D12
 
 I added more functionality to my Joke Generator app. Implemented Bootstrap and looked under the hood of the framework. I created a new library to hold the translations for the body of the app. Got to work a lot more with jQuery 6h
+
+##R1D13
+
+Decided to remove the placeholder text information in the app. Added the joke output element to joke.js and the page. Worked more with jQuery, HTML, and CSS. 4h
