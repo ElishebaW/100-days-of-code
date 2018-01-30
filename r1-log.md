@@ -55,3 +55,7 @@ I added more functionality to my Joke Generator app. Implemented Bootstrap and l
 ##R1D13
 
 Decided to remove the placeholder text information in the app. Added the joke output element to joke.js and the page. Worked more with jQuery, HTML, and CSS. 4h
+
+##R1D14
+
+Learned about the basics of web development such as the internet, HTTP and Domain Name Servers , and completed a few challenges on HackerRank. 1h
