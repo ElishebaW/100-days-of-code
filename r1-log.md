@@ -59,3 +59,7 @@ Decided to remove the placeholder text information in the app. Added the joke ou
 ##R1D14
 
 Learned about the basics of web development such as the internet, HTTP and Domain Name Servers , and completed a few challenges on HackerRank. 1h
+
+##R1D15
+
+Did more reading about web development including the skills and technology required and hosting options. Completed more JavaScript HackerRank challenges. 1h
