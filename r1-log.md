@@ -63,3 +63,7 @@ Learned about the basics of web development such as the internet, HTTP and Domai
 ##R1D15
 
 Did more reading about web development including the skills and technology required and hosting options. Completed more JavaScript HackerRank challenges. 1h
+
+##R1D16
+
+Read about how to back up an application and gain statistics on users visiting the app. Also, how to grow its' popularity with search engines. Than learned alittle about AJAX and how it speeds up apps. Worked on a few JavaScript HackerRank challenges. 1h
