@@ -67,3 +67,8 @@ Did more reading about web development including the skills and technology requi
 ##R1D16
 
 Read about how to back up an application and gain statistics on users visiting the app. Also, how to grow its' popularity with search engines. Than learned alittle about AJAX and how it speeds up apps. Worked on a few JavaScript HackerRank challenges. 1h
+
+
+##R1D17
+
+Finished up learning the basics of AJAX including how AJAX works and how to ensure the security of the application. Also, worked on HackerRank challenges.. 1h
