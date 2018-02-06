@@ -63,3 +63,11 @@ Learned about AJAX ,Web Services and the basics of web development. 5h
 ##R1D19
 
 Added the joke output to my joke app. Pushed through a problem where I needed to learn how to take the value of an element and concat the values together to display the resulting joke. 1h
+
+##R1D20
+
+Added documentation to my current projects, and updated my portfolio with my new Joke Compiler app. 1h
+
+##R1D21
+
+Added some stying to my Joke Compiler app, and moved joke.js library to a separate repo. Also, worked a little on my portfolio. 1h 
